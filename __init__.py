@@ -26,7 +26,7 @@ bl_info = {
     "name": "BDENTAL4D_mac3",  ###################Addon name
     "author": "Essaid Issam Dakir DMD, Ilya Fomenco DMD",
     "version": (3, 0, 0),
-    "blender": (3, 0, 0),  ################# Blender working version
+    "blender": (3, 00, 0),  ################# Blender working version
     "location": "3D View -> UI SIDE PANEL ",
     "description": "3D Tools suite for Digital Dentistry",  ########### Addon description
     "warning": "",
