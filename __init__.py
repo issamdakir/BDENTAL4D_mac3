@@ -39,7 +39,7 @@ bl_info = {
 #############################################################################################
 import sys, os, bpy
 from importlib import import_module
-from os.path import dirname, join, realpath, abspath, exists
+from os.path import dirname, join, realpath, abspath, exists, expanduser
 
 
 
