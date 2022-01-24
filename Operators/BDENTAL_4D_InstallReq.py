@@ -7,6 +7,7 @@ import gpu
 from gpu_extras.batch import batch_for_shader
 import bgl
 import blf
+import sys
 
 #############################################################
 def ShowMessageBox(message=[], title="INFO", icon="INFO"):
